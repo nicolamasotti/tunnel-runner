@@ -1,3 +1,93 @@
+# Project specific stuff #
+
+# Binary files that will be shared through online storage service (e.g. Dropbox). 
+# These include game assets and resources of varius type.
+shared/**
+
+
+# Blender stuff #
+
+# Blender files and backups
+*.blend*
+
+
+# PyCharm stuff #
+
+# JetBrains suggests ignoring 
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Packages
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+#*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db
+.tmtags
+.idea
+tags
+vendor.tags
+tmtagsHistory
+*.sublime-project
+*.sublime-workspace
+.bundle
+
+
+# macOS stuff #
+
+# General
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# Python stuff #
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

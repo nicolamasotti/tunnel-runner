@@ -5,6 +5,12 @@
 shared/**
 
 
+# Git stuff #
+
+# Merge tool generated backup files
+*.orig
+
+
 # Blender stuff #
 
 # Blender files and backups

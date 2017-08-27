@@ -1,6 +1,6 @@
 # Tunnel Runner
 
-A simple Tunnel Runner game based on the Blender Game Engine
+A Tunnel Runner game based on the Blender Game Engine
 
 ## Usage
 
